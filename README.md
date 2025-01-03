@@ -27,9 +27,6 @@
 
 
 
-
-
-
 ###
 
 <br clear="both">
@@ -37,3 +34,4 @@
 <img src="https://raw.githubusercontent.com/shivamspatel/shivamspatel/output/snake.svg" alt="Snake animation" />
 
 ###
+
