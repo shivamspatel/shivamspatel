@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivam2477@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ggTGW7lEN8iysxzoh1Iq9k7I9IqIo2sv/view?usp=sharing](https://drive.google.com/file/d/1ggTGW7lEN8iysxzoh1Iq9k7I9IqIo2sv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ggTGW7lEN8iysxzoh1Iq9k7I9IqIo2sv/view?usp=sharing)
 
 - ⚡ Fun fact **I like building out ideas and love design.**
 
