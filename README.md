@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **finding an internship**
 
-- 💬 Ask me about **mobile app development**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **shivam2477@gmail.com**
 
