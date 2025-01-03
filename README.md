@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [mobile development](https://apps.apple.com/us/app/zyka-eats/id6471768961)
+- 👯 I’m looking to collaborate on **mobile development**
 
 - 🤝 I’m looking for help with **finding an internship**
 
