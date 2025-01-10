@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate frontend Software Engineer!</h3>
 
-- 🔭 I’m currently working on [grabbl](https://grabbl.io)
+- 🔭 I’m currently working on Grabbl [see on my portfolio](https://www.shivamspatel.com/)
 
 - 🌱 I’m currently learning **React Native**
 
