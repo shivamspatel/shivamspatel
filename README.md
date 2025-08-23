@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">A passionate frontend Software Engineer!</h3>
+<h3 align="center">A passionate Frontend Software Engineer!</h3>
 
 - 🔭 I’m currently working on Grabbl [see on my portfolio](https://www.shivamspatel.com/)
 
-- 🌱 I’m currently learning **React Native**
+- 👯 I’m looking to collaborate on **mobile development or frontend engineering**
 
-- 👯 I’m looking to collaborate on **mobile development**
-
-- 🤝 I’m looking for help with **finding an internship**
+- 🤝 I’m looking for **an internship or job**
 
 - 💬 Ask me about **AI**
 
 - 📫 How to reach me **shivam2477@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ggTGW7lEN8iysxzoh1Iq9k7I9IqIo2sv/view?usp=sharing)
 
 - ⚡ Fun fact **I like building out ideas and love design.**
 
